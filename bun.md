@@ -1,6 +1,7 @@
 ---
 title: 'What is Bun?'
 date: '2023-09-01'
+tags: ['bun', 'runtime']
 ---
 
 # Exploring the New Bun Runtime: Advantages and Limitations

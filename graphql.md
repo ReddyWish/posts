@@ -1,6 +1,7 @@
 ---
 title: 'Why do we need GraphQL'
 date: '2023-08-28'
+tags: ['graphql', 'GraphQL']
 ---
 
 

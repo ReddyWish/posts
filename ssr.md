@@ -1,6 +1,7 @@
 ---
 title: 'Understanding Server-Side Rendering (SSR) in Web Development'
 date: '2023-09-25'
+tags: ['ssr', 'serverSideRendering']
 ---
 
 In the ever-evolving world of web development, the term "Server-Side Rendering" (SSR) has gained prominence, sparking debates and discussions. But what exactly is SSR, and why does it matter? Let's explore the concept of Server-Side Rendering and its significance in modern web development.
